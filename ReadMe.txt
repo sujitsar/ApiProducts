@@ -1,9 +1,11 @@
 1. Language: Python
-2. The utility consists of 2 files besides the ReadMe.txt inside Project folder
+2. Do a git clone to get the files in your local repository
+   git clone https://github.com/sujitsar/ApiProducts.git
+   The utility consists of 2 files besides the ReadMe.txt inside ApiProducts folder
 3. The Files are , ProductsApi.py and config.properties with url and other values
 4. Python 3 is required to run this utility from the CLI or the terminal.
-5. On command line interface just doing ./ProductsApi.py gives the output.
-6. Else, importing the whole project folder in and IDE like VScode and then running it would 
+5. On command line interface do a cd to ApiProducts and ./ProductsApi.py gives the output.
+6. Else, importing the whole project folder "ApiProducts" into an IDE like VScode and then running it would 
    show the output on the terminal of VScode.
 7. Sample output
 
