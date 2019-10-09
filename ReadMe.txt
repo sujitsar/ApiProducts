@@ -1,8 +1,8 @@
-1. The utility consists of 2 files besides the ReadMe.txt inside ApiProduct folder
+1. The utility consists of 2 files besides the ReadMe.txt inside Project folder
 2. The Files are , ProductsApi.py and config.properties with url and other values
 3. Python 3 is required to run this utility from the CLI or the terminal.
 4. On command line interface just doing ./ProductsApi.py gives the output.
-5. Else, importing the whole ApiProduct folder in and IDE like VScode and then running it would 
+5. Else, importing the whole project folder in and IDE like VScode and then running it would 
    show the output on the terminal of VScode.
 6. Sample output
 
